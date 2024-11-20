@@ -25,3 +25,9 @@ h1, h2, h3, h4{
 .textual{
     text-align: justify;
 }
+
+footer ul{
+    list-style: none;
+    background: #000;
+    margin-bottom: 0;
+}
